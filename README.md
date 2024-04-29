@@ -1,3 +1,33 @@
+# pokecrimson
+The source code for the upcoming Crimson game based on pokeemerald. The only reason why this is uploaded is because of technical problems, should RHH staff want to look at my code.
+
+# Credits
+ShinyDragonHunter - FR/LG content that he ported over to Emerald
+ipatix - HQ mixer (which I had to custom implement just for Expansion)
+Pidgey - Debugging, assistance getting to run th
+TeamAquasHideout/TheXaman - Gen V style Party Menu
+CyanSMP64 - HG/SS, DPPt, BW1/2 (currently broken/unfinished?) Music ports
+??? - Battle! Professor Oak Theme (fan-made, need to assign Voice Groups)
+
+# Features
+- HQ Mixer, for better sound and music quality
+- Stadium 1+2 Cries for all Gen 1/2 Pokemon (1 of a kind in the world, Mewtwo only implemented as of this time)
+- 3 regions in the plans (Hoenn currently)
+- Selection of maps from other regions (for catching Legendaries from Gen 4 and above)
+- Mega Evolution
+- Up to Gen VI Pokemon
+- Tera/Gigantamax/Whatever crap from Gen 8+ has been removed
+
+# TODO: Features need to be implemented
+- Gen 5 Party Summary Screen (when is this going to be public?)
+- Finish/wrap up Sinnoh's Spear Pillar and start other inspired maps from Gen V
+- Make Faraway Island use FR/LG tiles
+- Characters need extra work such as being implemented into the story
+- Porting over Kanto from FR/LG, and (with permission if I can get it granted) Johto from CrystalDust
+- Difficulty Mode and Key System (inspired from BW2)
+- Compatibility for Local Play (maybe when mGBA supports online play...?)
+- JRose11 Mode (for those who want to do challenge runs like JRose11)
+
 # pokeemerald-expansion
 
 ### Important: DO NOT use GitHub's "Download Zip" option. Using this option will not download the commit history required to update your expansion version or merge other feature branches. Instead, please read [this guide](https://github.com/Pawkkie/Team-Aquas-Asset-Repo/wiki/The-Basics-of-GitHub) to learn how to fork the repository and clone locally from there.
